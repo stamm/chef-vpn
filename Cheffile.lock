@@ -1,0 +1,8 @@
+SITE
+  remote: http://community.opscode.com/api/v1
+  specs:
+    pptpd (1.0.1)
+
+DEPENDENCIES
+  pptpd (>= 0)
+

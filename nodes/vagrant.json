@@ -1,0 +1,9 @@
+{
+  "pptpd": {
+    "username": "stamm",
+    "password": "test"
+  },
+  "run_list": [
+    "recipe[pptpd::default]"
+  ]
+}
