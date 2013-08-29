@@ -4,5 +4,5 @@ SITE
     pptpd (1.0.1)
 
 DEPENDENCIES
-  pptpd (>= 0)
+  pptpd (= 1.0.1)
 

@@ -5,7 +5,8 @@ site 'http://community.opscode.com/api/v1'
 
 # cookbook 'chef-client'
 
-cookbook 'pptpd'
+cookbook 'pptpd', '1.0.1'
+# cookbook 'iptables', '0.12.0'
 # cookbook 'apache2', '>= 1.0.0'
 
 # cookbook 'rvm',
