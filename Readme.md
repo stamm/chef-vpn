@@ -1,4 +1,5 @@
-To install on server you need do this steps:
-* change username and password in nodes/vagrant.json
+This help to install vpn-server (pptp) to your server.
 * knife solo prepare username@host
+* change username and password in nodes/host.json
 * knife solo cook username@host
+* connect to your own vpn
